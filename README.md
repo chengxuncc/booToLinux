@@ -2,7 +2,7 @@
 Using `bcdedit` to select the next time boot of UEFI: ```bcdedit /set {fwbootmgr} bootsequence {GUID}```
 
 ## Download
-If you don't want to build by yourself, you can download binary built here: [release](https://github.com/chengxuncc/booToLinux/releases)
+If you don't want to build by yourself, you can download prebuild binary here: [release](https://github.com/chengxuncc/booToLinux/releases)
 
 ## Build 
 ```dos
